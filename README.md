@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i am Danail Filev 👋
   Nice to meet you! Feel free to contact me anytime!<p></p>
   A Technical Support Specialist, but in love with programming:
 - 🌱 learning:<p></p>
@@ -16,7 +16,7 @@
       ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
       ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
       ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-- 👯 also working on a personal project focusing over the parenthood using mainly ASP.NET, EF Core and Angular
+- 👯 also working on a personal project using mainly ASP.NET, EF Core and Angular
 
 ### 📫 Contacts and how to reach me:<p></p>
 <a href="https://github.com/DanailFilev">![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
@@ -34,10 +34,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=DanailFilev&style=for-the-badge&color=brightgreen)
 
 ### ⚡ Fun fact: 
-- I like playing video games! <p></p>
-![image](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
-![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![image](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)
-![image](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
-![image](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
+- I like playing basketball.<p></p>
+![image](https://img.shields.io/badge/basketball-D32936?style=for-the-badge&logo=basketball&logoColor=white)
+
 
