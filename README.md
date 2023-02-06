@@ -1,4 +1,4 @@
-### Hi there, i am Danail Filev 👋
+### Hi there, i am Danail 👋
   Nice to meet you! Feel free to contact me anytime!<p></p>
   A Technical Support Specialist, but in love with programming:
 - 🌱 learning:<p></p>
