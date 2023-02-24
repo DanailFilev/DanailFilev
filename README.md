@@ -34,7 +34,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=DanailFilev&style=for-the-badge&color=brightgreen)
 
 ### ⚡ Fun fact: 
-- I like playing basketball!<p></p>
+- I like playing basketball.<p></p>
 ![image](https://img.shields.io/badge/basketball-D32936?style=for-the-badge&logo=basketball&logoColor=white)
 
 
