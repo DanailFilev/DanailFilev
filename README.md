@@ -1,5 +1,5 @@
 ### Hi there, i am Danail 👋
-  Nice to meet you! Feel free to contact me anytime!<p></p>
+  Nice to meet you!<p></p>
   A Technical Support Specialist, but in love with programming:
 - 🌱 learning:<p></p>
       ![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -18,7 +18,7 @@
       ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
       ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### 📫 Contacts and how to reach me:<p></p>
+### 📫 How to reach me:<p></p>
 <a href="https://github.com/DanailFilev">![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://www.facebook.com/danail.filev.3">![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/danail-filev-580109230/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
